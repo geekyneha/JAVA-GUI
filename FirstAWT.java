@@ -8,7 +8,7 @@ public class FirstAWT{
         b.setBounds(50,100,80,30);
         f.add(b);
         f.setLayout(null);
-        f.setSize(300, 200);
+        
         f.setVisible(true);
 
 
